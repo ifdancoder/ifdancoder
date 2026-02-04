@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ifdancoder
-- 🌱 I’m currently learning PHP (Laravel and Symfony in less degree), Python, C++
+- 🌱 I’m currently learning PHP (Laravel), Python, C++
 - 👀 I’m interested in gamedev, neural networks
 - 📫 How to reach me: ifdancoder@gmail.com
