@@ -53,7 +53,7 @@ final class Developer
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,go&theme=dark" />
 </p>
 
 ### Databases & Messaging
@@ -77,11 +77,13 @@ Backend
 ├── PHP
 │   └── Laravel
 ├── Python
+│   ├── Asyncio
+│   ├── pyTelegramBotAPI
 │   ├── Aiogram
-│   ├── Telethon
-│   ├── Telethon
-│   ├── Telethon
+│   ├── PythonTelegramBot
 │   └── Telethon
+│       ├── Userbot pools
+│       └── My own StateMachine mModule
 ├── REST APIs
 ├── External Integrations
 ├── Background Jobs
