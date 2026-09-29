@@ -78,7 +78,7 @@ Backend
 │   └── Laravel
 ├── Python
 │   ├── Asyncio
-│   ├── pyTelegramBotAPI
+│   ├── PyTelegramBotAPI
 │   ├── Aiogram
 │   ├── PythonTelegramBot
 │   └── Telethon
