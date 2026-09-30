@@ -83,7 +83,7 @@ Backend
 │   ├── PythonTelegramBot
 │   └── Telethon
 │       ├── Userbot pools
-│       └── My own StateMachine mModule
+│       └── My own StateMachine module
 ├── REST APIs
 ├── External Integrations
 ├── Background Jobs
