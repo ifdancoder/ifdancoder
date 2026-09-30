@@ -103,6 +103,10 @@ Data
 ├── ClickHouse
 └── Redis
 
+Search engines
+├── Meilisearch
+└── Elasticsearch
+
 Messaging
 ├── RabbitMQ
 └── NATS
